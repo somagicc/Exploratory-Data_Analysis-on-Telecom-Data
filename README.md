@@ -87,7 +87,6 @@ Collating the above points, we have built actionable insights for the company.
 
 ![](https://github.com/somagicc/Exploratory-Data_Analysis-on-Telecom-Data/blob/master/Images/Most%20popular%20brands%20for%20various%20age%20groups.png)
 
-Find presentation of analysis on data [here.]()
 
 <a id=section8></a>
 ## 8. Tools Used
