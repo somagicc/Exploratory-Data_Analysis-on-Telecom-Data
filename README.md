@@ -37,7 +37,7 @@ Note: We are considering 10 most used phone brands for analysis.
 
 Collating the above points, we have built actionable insights for the company.
 
-## Major Data Mining Steps
+## Major Data Preprocessing
 |  Issue | Resolution   |
 | ------------ | ------------ |
 | In events_data, device_id had 51 null values | It was observed that corresponding to 3 latitude and longitude values we have missing device_id values (17 each). So, these null values were filled using the corresponding latitudes and longitudes values.|
