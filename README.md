@@ -107,7 +107,7 @@ Find presentation of analysis on data [here.]()
 - Signal strength needs to be monitored and maintained in peak hours so that users should not face issues and promote the company to other future potential customers.
 - Plan for more marketing campaigns in the areas with less customers to increase the customer base and can introduce some introductory offers for new customers in those areas.
 
-Find detailed consulting report [here.](https://drive.google.com/drive/folders/1mQryIgTPFijPeODa5AwmW3Kbmtlrb9Cz)
+Find detailed consulting report [here.](https://drive.google.com/file/d/1pxtaf7mcOnvCnpnFC4hKzRm74ljGrM-8/view?usp=sharing)
 
 <a id=section10></a>
 ## 10. Python Notebook
