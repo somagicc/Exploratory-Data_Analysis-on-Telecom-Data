@@ -68,18 +68,23 @@ Collating the above points, we have built actionable insights for the company.
 <a id=section7></a>
 ## 7. Major Insights
 1. The most popular brands are shown below.
+
 ![](https://github.com/somagicc/Exploratory-Data_Analysis-on-Telecom-Data/blob/master/Images/Popular_brands.png)
 
 2. The most popular device models are shown below.
+
 ![](https://github.com/somagicc/Exploratory-Data_Analysis-on-Telecom-Data/blob/master/Images/Popular_device_models.png)
 
 3. Mobile brands preferred by Male are shown below.
+
 ![](https://github.com/somagicc/Exploratory-Data_Analysis-on-Telecom-Data/blob/master/Images/Brands%20preferred%20by%20Male.png)
 
 4. Mobile brands preferred by Female are shown below.
+
 ![](https://github.com/somagicc/Exploratory-Data_Analysis-on-Telecom-Data/blob/master/Images/Brands%20preferred%20by%20Female.png)
 
 5. The most popular brands for various age groups are shown below.
+
 ![](https://github.com/somagicc/Exploratory-Data_Analysis-on-Telecom-Data/blob/master/Images/Most%20popular%20brands%20for%20various%20age%20groups.png)
 
 Find presentation of analysis on data [here.]()
@@ -96,11 +101,11 @@ Find presentation of analysis on data [here.]()
 
 <a id=section9></a>
 ## 9. Actionable Insights
-●	New plans can be introduced based on the different age groups,locations and their usage, like plans for data and plans for talktime based on the usage patterns.
-●	New plans can be based on the customer diversity, like for students, housewives and corporate employees have different requirements and usages, so can provide customized plans to them.
-●	Possibility to introduce combo plans consisting of attractive monthly or quarterly  plans along with the top brands of mobiles, so that users can opt for the mobile devices of their choice with flexible payment options.
-●	Signal strength needs to be monitored and maintained in peak hours so that users should not face issues and promote the company to other future potential customers.
-●	Plan for more marketing campaigns in the areas with less customers to increase the customer base and can introduce some introductory offers for new customers in those areas.
+- New plans can be introduced based on the different age groups,locations and their usage, like plans for data and plans for talktime based on the usage patterns.
+- New plans can be based on the customer diversity, like for students, housewives and corporate employees have different requirements and usages, so can provide customized plans to them.
+- Possibility to introduce combo plans consisting of attractive monthly or quarterly  plans along with the top brands of mobiles, so that users can opt for the mobile devices of their choice with flexible payment options.
+- Signal strength needs to be monitored and maintained in peak hours so that users should not face issues and promote the company to other future potential customers.
+- Plan for more marketing campaigns in the areas with less customers to increase the customer base and can introduce some introductory offers for new customers in those areas.
 
 Find detailed consulting report [here.]()
 
@@ -108,3 +113,4 @@ Find detailed consulting report [here.]()
 ## 10. Python Notebook
 Find all the codes [here.]()
 
+Thank you!
