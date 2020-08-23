@@ -111,6 +111,6 @@ Find detailed consulting report [here.](https://drive.google.com/file/d/1pxtaf7m
 
 <a id=section10></a>
 ## 10. Python Notebook
-Find all the codes [here.]()
+Find all the codes [here.](https://github.com/somagicc/Exploratory-Data_Analysis-on-Telecom-Data/blob/master/Insaid_Telecom_EDA.ipynb)
 
 Thank you!
